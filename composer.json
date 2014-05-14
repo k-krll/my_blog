@@ -1,6 +1,7 @@
 {
     "name": "krll_/krll.tk",
     "require": {
-        "slim/slim": "dev-master"
+        "slim/slim": "dev-master",
+        "j4mie/paris": "dev-master"
     }
 }
